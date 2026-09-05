@@ -1,0 +1,4 @@
+/home/maverick/UNAM/Grafica/Laboratorio_Computacion_Grafica_e_IHC/Practtica_3/build/CMakeFiles/glad.dir
+/home/maverick/UNAM/Grafica/Laboratorio_Computacion_Grafica_e_IHC/Practtica_3/build/CMakeFiles/OpenGLBoxes.dir
+/home/maverick/UNAM/Grafica/Laboratorio_Computacion_Grafica_e_IHC/Practtica_3/build/CMakeFiles/edit_cache.dir
+/home/maverick/UNAM/Grafica/Laboratorio_Computacion_Grafica_e_IHC/Practtica_3/build/CMakeFiles/rebuild_cache.dir

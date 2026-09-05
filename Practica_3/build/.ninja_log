@@ -1,0 +1,7 @@
+# ninja log v7
+2	17	1788579226959600793	CMakeFiles/OpenGLBoxes.dir/src/Box.cpp.o	19cee8d4cdb2d48f
+2	17	1788579226959775129	CMakeFiles/OpenGLBoxes.dir/src/Renderer.cpp.o	ba696baa96ccf988
+1	114	1788579226957448968	CMakeFiles/glad.dir/external/glad/src/gl.c.o	625281acafe3c3a6
+114	180	1788579227070428772	libglad.a	ec919b78fe45e77a
+1	1025	1788579226959360728	CMakeFiles/OpenGLBoxes.dir/src/main.cpp.o	f45219057c3c040f
+1026	1095	1788579227983265805	OpenGLBoxes	2fca31884ce7c8ca
