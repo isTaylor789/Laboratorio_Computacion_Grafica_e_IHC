@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/Practica_1.dir/link.d CMakeFiles/Practica_1.dir/main.cpp.o -o Practica_1  /usr/lib/libglfw.so.3.5 /usr/lib/libGLEW.so /usr/lib/libGLX.so /usr/lib/libOpenGL.so

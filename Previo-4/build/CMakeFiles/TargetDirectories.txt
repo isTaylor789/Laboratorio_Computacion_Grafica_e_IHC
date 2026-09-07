@@ -1,0 +1,3 @@
+/home/maverick/UNAM/Grafica/Laboratorio_Computacion_Grafica_e_IHC/Previo-4/build/CMakeFiles/Practica_1.dir
+/home/maverick/UNAM/Grafica/Laboratorio_Computacion_Grafica_e_IHC/Previo-4/build/CMakeFiles/edit_cache.dir
+/home/maverick/UNAM/Grafica/Laboratorio_Computacion_Grafica_e_IHC/Previo-4/build/CMakeFiles/rebuild_cache.dir
